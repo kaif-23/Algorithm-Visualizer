@@ -3,6 +3,9 @@ Algorithm Visualizer
 
 This project is a web-based tool for visualizing various sorting and searching algorithms. It provides a user-friendly interface to watch algorithms in action, helping to understand their underlying mechanics.
 
+## 🔗 Live Demo
+👉 [Play the Live Visualize](https://algorithm-visualizer-react-b09h.onrender.com)
+
 Features
 
 Algorithm Visualization: Watch sorting and searching algorithms as they process an array of numbers.
